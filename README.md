@@ -9,10 +9,11 @@ This is my final project for Computer Graphice Course in 9 semester (27 may, 202
 - Each time a palyer will get 3 lives.
 - If you can braeks all the bricks before you die, you will win thw match.
 
-  ## Screenshorts
+## Screenshorts
   
 ![Screenshot (127)](https://github.com/user-attachments/assets/eca6b616-1c6d-4b1c-ab16-fe919babb2d7)
-![Screenshot (123)](https://github.com/user-attachments/assets/c9047a4a-db43-4172-b11b-1327f9a002f![Screenshot (129)](https://github.com/user-attachments/assets/9e5bdf3e-97dd-4172-9bdf-f442f8ee7d1d)
-3)
+![Screenshot (123)](https://github.com/user-attachments/assets/c9047a4a-db43-4172-b11b-1327f9a002f3)
+![Screenshot (129)](https://github.com/user-attachments/assets/9e5bdf3e-97dd-4172-9bdf-f442f8ee7d1d)
+
 
 ## Enjoy the game. Thank you.
