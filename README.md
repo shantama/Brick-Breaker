@@ -12,8 +12,8 @@ This is my final project for Computer Graphice Course in 9 semester (27 may, 202
 ## Screenshorts
   
 ![Screenshot (127)](https://github.com/user-attachments/assets/eca6b616-1c6d-4b1c-ab16-fe919babb2d7)
-![Screenshot (123)](https://github.com/user-attachments/assets/c9047a4a-db43-4172-b11b-1327f9a002f3)
 ![Screenshot (129)](https://github.com/user-attachments/assets/9e5bdf3e-97dd-4172-9bdf-f442f8ee7d1d)
 
+![Screenshot (128)](https://github.com/user-attachments/assets/dea5c7c2-8162-47c3-a858-565c1b1783f5)
 
 ## Enjoy the game. Thank you.
